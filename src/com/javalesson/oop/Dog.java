@@ -15,9 +15,7 @@ public class Dog {
         System.out.println("Dog's count is " + dogsCount);
     }
 
-    public static int getDogsCount() {
-        return dogsCount;
-    }
+    public static int getDogsCount() { return dogsCount;  }
 
     public Size getSize() {
         return size;

@@ -6,8 +6,10 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Dog's count "+ Dog.getDogsCount());
+        System.out.println("Hello");
 
         Dog lab = new Dog();
+
         lab.setName("Charley");
         lab.setBreed("Lab");
         lab.setSize(Size.AVERAGE);

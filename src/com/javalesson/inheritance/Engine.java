@@ -3,7 +3,7 @@ package com.javalesson.inheritance;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Engine {
+public class  Engine {
 
     private double volume;
     private EngineType engineType;
