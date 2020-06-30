@@ -16,8 +16,6 @@ public abstract class FuelAuto extends Auto {
         System.out.println("Adding fuel");
     }
 
-
-
     public int getAvailablePetrol() {
         return availablePetrol;
     }

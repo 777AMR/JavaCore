@@ -1,6 +1,5 @@
 package com.javalesson.inheritance;
 
-
 public class Truck extends FuelAuto {
 
     private int cargoWeight;
