@@ -1,6 +1,5 @@
 package com.javalesson.inheritance;
 
-
 public abstract class FuelAuto extends Auto {
 
     private int availablePetrol;
