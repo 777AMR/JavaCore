@@ -10,7 +10,6 @@ public class Display {
         Pixel pixel = new Pixel(10, 10, Color.BLUE);
     }
 
-
     private class Pixel {
         private int x;
         private int y;

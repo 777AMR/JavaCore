@@ -11,7 +11,7 @@ public class Piston {
     }
 
     public void movePiston(){
-        System.out.println("Piston #"+pistonNumber+" is moving");
+        System.out.println("Piston #" + pistonNumber + " is moving");
     }
 
     @Override
